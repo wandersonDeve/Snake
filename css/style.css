@@ -1,0 +1,11 @@
+body{
+    font-family:'Times New Roman', Times, sans-serif;
+    height: 95%;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(0, 247, 255);
+    background-color: rgb(39, 37, 37);
+}
